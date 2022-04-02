@@ -1,0 +1,53 @@
+.mainlist li {
+    color: blue;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 300px;
+    height: 700px;
+    border: 2px dotted blue;
+    
+}
+
+.innerlist li {
+    color: red;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    border: 2px dotted red;
+    margin: 5px 3px;
+    float: left;
+}
+
+.innerlist ul{
+    color: black;
+}
+
+.relic li {
+    color: green;
+}
+
+.item li {
+    color: blue;
+}
+
+.card{
+    text-align: center;
+}
+
+#team1{
+    background-color: rgba(0, 128, 0, 0.1);
+}
+
+#team2{
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.mainlist{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.innerlist{
+    padding: 5px 0px 5px 45px;
+}
