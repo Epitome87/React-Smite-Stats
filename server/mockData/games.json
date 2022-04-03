@@ -1,0 +1,750 @@
+[
+  {
+    "id": "0",
+    "duration": "30m",
+    "time": "20 Hours Ago",
+    "gamemode": "Conquest",
+    "teams": [
+      {
+        "team": "team1",
+        "kills": "20",
+        "deaths": "17",
+        "assists": "23",
+        "players": [
+          {
+            "username": "RedCyanide",
+            "character": "eset",
+            "kills": "5",
+            "deaths": "2",
+            "assists": "4",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "N0xire",
+            "character": "cerberus",
+            "kills": "1",
+            "deaths": "2",
+            "assists": "8",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "kingpiccolojr",
+            "character": "thanatos",
+            "kills": "2",
+            "deaths": "2",
+            "assists": "4",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "CynComm",
+            "character": "achilles",
+            "kills": "1",
+            "deaths": "2",
+            "assists": "2",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "SkylineStars",
+            "character": "skadi",
+            "kills": "3",
+            "deaths": "4",
+            "assists": "2",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "team": "team2",
+        "kills": "15",
+        "deaths": "20",
+        "assists": "19",
+        "players": [
+          {
+            "username": "rando1",
+            "character": "mulan",
+            "kills": "2",
+            "deaths": "1",
+            "assists": "1",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando2",
+            "character": "thor",
+            "kills": "3",
+            "deaths": "4",
+            "assists": "3",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando3",
+            "character": "poseidon",
+            "kills": "2",
+            "deaths": "4",
+            "assists": "3",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando4",
+            "character": "artemis",
+            "kills": "3",
+            "deaths": "3",
+            "assists": "1",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando5",
+            "character": "geb",
+            "kills": "0",
+            "deaths": "2",
+            "assists": "5",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "duration": "36m",
+    "time": "23 Hours Ago",
+    "gamemode": "Conquest",
+    "teams": [
+      {
+        "team": "team1",
+        "kills": "20",
+        "deaths": "17",
+        "assists": "23",
+        "players": [
+          {
+            "username": "RedCyanide",
+            "character": "eset",
+            "kills": "5",
+            "deaths": "2",
+            "assists": "4",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "N0xire",
+            "character": "cerberus",
+            "kills": "1",
+            "deaths": "2",
+            "assists": "8",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "kingpiccolojr",
+            "character": "thanatos",
+            "kills": "2",
+            "deaths": "2",
+            "assists": "4",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "CynComm",
+            "character": "achilles",
+            "kills": "1",
+            "deaths": "2",
+            "assists": "2",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "SkylineStars",
+            "character": "skadi",
+            "kills": "3",
+            "deaths": "4",
+            "assists": "2",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "team": "team2",
+        "kills": "15",
+        "deaths": "20",
+        "assists": "19",
+        "players": [
+          {
+            "username": "rando1",
+            "character": "mulan",
+            "kills": "2",
+            "deaths": "1",
+            "assists": "1",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando2",
+            "character": "thor",
+            "kills": "3",
+            "deaths": "4",
+            "assists": "3",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando3",
+            "character": "poseidon",
+            "kills": "2",
+            "deaths": "4",
+            "assists": "3",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando4",
+            "character": "artemis",
+            "kills": "3",
+            "deaths": "3",
+            "assists": "1",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          },
+          {
+            "username": "rando5",
+            "character": "geb",
+            "kills": "0",
+            "deaths": "2",
+            "assists": "5",
+            "items": [
+              {
+                "name": "bluestone"
+              },
+              {
+                "name": "mystical"
+              },
+              {
+                "name": "runeforged"
+              },
+              {
+                "name": "pridwen"
+              },
+              {
+                "name": "bullwark"
+              },
+              {
+                "name": "mantle"
+              }
+            ],
+            "relics": [
+              {
+                "name": "teleport"
+              },
+              {
+                "name": "blink"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
