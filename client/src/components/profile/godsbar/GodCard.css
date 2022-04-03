@@ -1,0 +1,13 @@
+.god_card{
+    border: 1px solid red;
+}
+
+.god_card p{
+    display:inline-block;
+    margin-right: 5%;
+}
+
+.god_card h3{
+    display: inline-block;
+    margin-right: 5%;
+}

@@ -1,0 +1,20 @@
+.class_top_bar{
+    margin-top: 0;
+    padding-top: 0;
+    border-top: 4px solid rgb(74, 159, 255);
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px dotted black;
+    padding-left: 2%;
+}
+
+.class_top_bar h2{
+    margin-top: 0;
+    display: inline;
+}
+
+.class_top_bar p{
+    display: inline-block;
+    width: 10%;
+    padding-left: 10%;
+}

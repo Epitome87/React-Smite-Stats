@@ -1,0 +1,13 @@
+.gods_top_bar{
+    border: 1px solid black;
+}
+
+.gods_top_bar h2 {
+    display: inline;
+    margin-right: 17%;
+}
+
+.gods_top_bar h3 {
+    display: inline;
+    margin-right: 0;
+}

@@ -2,9 +2,10 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import MatchSummary from './components/match_summary/MatchSummary.js';
 import MatchesPage from './components/MatchesPage';
-import ProfilePage from './components/ProfilePage';
+import ProfilePage from './components/profile/ProfilePage';
 import HomePage from './components/HomePage';
 import NavigationBar from './components/NavigationBar';
+
 
 function App() {
   return (

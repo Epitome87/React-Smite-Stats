@@ -1,0 +1,9 @@
+.stats_grid{
+    border: 1px black solid;
+}
+
+.stats_grid li{
+    display: inline-block;
+    border: 1px dotted black;
+    margin-right: 3%;
+}

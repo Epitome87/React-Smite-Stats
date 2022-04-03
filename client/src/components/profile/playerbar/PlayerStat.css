@@ -1,0 +1,12 @@
+.player_stat{
+    border: 1px solid rgb(70, 70, 245);
+    width: 15%;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.player_stat li{
+    border-bottom: 1px solid red;
+    width: 80%;
+    box-sizing: border-box;
+}

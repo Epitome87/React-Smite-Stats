@@ -1,0 +1,10 @@
+.player_stats{
+    margin-top: 0;
+}
+
+.player_stats h2{
+    margin-bottom: 0;
+    padding-left: 3.5%;
+    border: 1px solid black;
+    width: 11.35%;
+}
