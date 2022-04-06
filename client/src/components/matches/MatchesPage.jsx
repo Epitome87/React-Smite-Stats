@@ -1,7 +1,8 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-function MatchesPage() {
+function MatchesPage({setHeader}) {
+  setHeader("Matches");
   return (
     <div>
       <h1>Matches Page</h1>

@@ -1,0 +1,20 @@
+
+.top_builds{
+    width: 60%;
+    margin: auto;
+}
+
+.builds_top_bar{
+    border: 1px solid black;
+    width: 100%;
+    margin: auto;
+    background-color:rgb(229, 248, 252);
+}
+
+.builds_top_bar h2{
+    text-align: center;
+}
+
+.builds_body{
+    border: 1px solid black;
+}

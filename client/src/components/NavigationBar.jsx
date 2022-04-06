@@ -1,10 +1,11 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import "./NavigationBar.css"
 
-function NavigationBar() {
+function NavigationBar({header}) {
   return (
-    <div>
-      <ul>
+    <div className="nav_bar">
+      <ul className="side_bar">
         <li>
           <NavLink to='/'>Home</NavLink>
         </li>
@@ -15,6 +16,13 @@ function NavigationBar() {
           <NavLink to='/matches'>Matches</NavLink>
         </li>
       </ul>
+      <div className="main_bar">
+        <h1>{header}</h1>
+        <form>
+          <label for="username">Username:</label>
+          <input type="text" id="username" name="username" />
+        </form>
+      </div>
     </div>
   );
 }

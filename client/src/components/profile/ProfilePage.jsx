@@ -4,7 +4,8 @@ import PlayerStats from "./playerbar/PlayerStats"
 import ClassStats from "./classbar/ClassStats"
 import PlayerGods from "./godsbar/PlayerGods"
 
-function ProfilePage() {
+function ProfilePage({setHeader}) {
+  setHeader("Profile");
   return (
     <div>
       <h1>Profile Page</h1>

@@ -5,7 +5,7 @@ import TeamList from './TeamList.js';
 import TeamCard from './TeamCard.js';
 import axios from 'axios';
 
-function MatchSummary({ game }) {
+function MatchSummary({ game, setHeader}) {
   //   const team1 = game.teams[0];
   //   const team2 = game.teams[1];
   //   const team1players = team1.players;
@@ -15,6 +15,8 @@ function MatchSummary({ game }) {
   //   const time = game.time;
   const { id: matchID } = useParams();
   const [mockGame, setMockGame] = useState(null);
+
+  setHeader(`Match ${matchID}`);
 
   useEffect(() => {
     axios
