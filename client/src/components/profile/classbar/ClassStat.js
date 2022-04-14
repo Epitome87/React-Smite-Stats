@@ -7,8 +7,8 @@ export default function ClassStat({cName, stats, games, wins}){
 
     return(
         <div className="class_stat">
-        <TopBar cName={cName} games={games} wins={wins}/>
-        <StatsGrid stats={stats}/>
+            <TopBar cName={cName} games={games} wins={wins}/>
+            <StatsGrid stats={stats}/>
         </div>
     )
 }

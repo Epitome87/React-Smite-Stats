@@ -15,7 +15,7 @@ export default function PlayerStats(props){
     const matchStats=[Stat("Played", 5027), Stat("Won", 3105), Stat("Lost", 1922)]
 
     return(
-        <div className="player_stats">
+        <div className="player_stats_wrapper">
         <h2>Player Stats</h2>
         {/* This div will essentially be re-used 4x -- Component? */}
             <PlayerStat name="MATCHES" stats={matchStats} />

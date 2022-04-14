@@ -1,12 +1,38 @@
 .player_stat{
     border: 1px solid rgb(70, 70, 245);
-    width: 15%;
-    box-sizing: border-box;
-    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    margin-right: 0;
 }
 
-.player_stat li{
-    border-bottom: 1px solid red;
-    width: 80%;
+.player_stat_main{
+    border-top: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin-right: 0;
+}
+
+.player_stat_main p{
     box-sizing: border-box;
+}
+
+.individual_stat_wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin-bottom: 1.5%;
+    background-color: rgb(255, 250, 244);
+
+}
+
+.player_stat_name{
+    margin-left: 2%;
+
+}
+
+.player_stat_stat{
+    margin-right: 2%;
 }

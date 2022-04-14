@@ -5,15 +5,21 @@ export default function GodCard({name, kda, kills, deaths, assists, wins, losses
 
     return(
         <div className="god_card">
-            <h3>{name}</h3>
-            <p>kda - {kda}</p>
-            <p>kills - {kills}</p>
-            <p>deaths - {deaths}</p>
-            <p>assists - {assists}</p>
-            <p>wins - {wins}</p>
-            <p>losses - {losses}</p>
-            <p>winrate - {winrate}</p>
-            <p>playtime - {playtime}</p>
+            <h3 className="god_card_name">{name}</h3>
+            <div className="god_card_row1">
+                <p>kda - {kda}</p>
+                <p>kills - {kills}</p>
+                <p>deaths - {deaths}</p>
+            </div>
+            <div className="god_card_row2">
+                <p>assists - {assists}</p>
+                <p>wins - {wins}</p>
+                <p>losses - {losses}</p>
+            </div>
+            <div className="god_card_row3">
+                <p>winrate - {winrate}</p>
+                <p>playtime - {playtime}</p>
+            </div>
         </div>
     )
 }

@@ -21,12 +21,14 @@ export default function ClassStats(props){
     Stat("HEALING", "0"), Stat("SELF HEALING", "2,029,724"), Stat("MINION KILLS", "30,301"), Stat("MINION DAMAGE", "18,843,630"), Stat("WINS", "509"), Stat("LOSSES", "456"), Stat("WIN/LOSS RATION", "52.75%")]
     return(
         <div className="class_stats">
-        <h1 id="title">STATS BY CLASS</h1>
-        <ClassStat cName="Assassin" stats={assassinStats} games={50} wins={30} />
-        <ClassStat cName="Guardian" stats={guardianStats} games={50} wins={30}/>
-        <ClassStat cName="hunter" stats={hunterStats} games={50} wins={30}/>
-        <ClassStat cName="Warrior" stats={warriorStats} games={50} wins={30}/>
-        <ClassStat cName="Mage" stats={mageStats} games={50} wins={30}/>
+            <h1 id="title">STATS BY CLASS</h1>
+            <div className="class_stats_main">
+                <ClassStat cName="Assassin" stats={assassinStats} games={50} wins={30} />
+                <ClassStat cName="Guardian" stats={guardianStats} games={50} wins={30}/>
+                <ClassStat cName="hunter" stats={hunterStats} games={50} wins={30}/>
+                <ClassStat cName="Warrior" stats={warriorStats} games={50} wins={30}/>
+                <ClassStat cName="Mage" stats={mageStats} games={50} wins={30}/>
+            </div>
         </div>
     )
 }

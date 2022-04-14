@@ -1,13 +1,22 @@
 .god_card{
-    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
 }
 
-.god_card p{
-    display:inline-block;
-    margin-right: 5%;
+.god_card_name{
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px dotted red;
+    margin-bottom: 0;
 }
 
-.god_card h3{
-    display: inline-block;
-    margin-right: 5%;
+.god_card_row1, .god_card_row2, .god_card_row3{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.god_card_row1{
+    padding-top: 0;
+    margin-top: 0;
 }

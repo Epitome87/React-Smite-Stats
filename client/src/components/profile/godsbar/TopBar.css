@@ -1,13 +1,12 @@
 .gods_top_bar{
     border: 1px solid black;
+    display: flex;
 }
 
-.gods_top_bar h2 {
-    display: inline;
-    margin-right: 17%;
-}
 
-.gods_top_bar h3 {
-    display: inline;
-    margin-right: 0;
+
+.gods_top_bar_lifetime{
+    margin-left: auto;
+    font-size: .8rem;
+
 }

@@ -1,5 +1,9 @@
-.player_stats{
-    box-sizing: border-box;
-    display: inline;
-    
+
+.profile_page_main{
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+}
+.profile_page{
+    width: 100%;
 }

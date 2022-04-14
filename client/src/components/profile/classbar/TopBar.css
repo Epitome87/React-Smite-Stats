@@ -6,15 +6,16 @@
     border-right: 1px solid black;
     border-bottom: 1px dotted black;
     padding-left: 2%;
+    display: flex;
 }
 
 .class_top_bar h2{
     margin-top: 0;
-    display: inline;
+    display: flex;
 }
 
 .class_top_bar p{
-    display: inline-block;
+    display: flex;
     width: 10%;
     padding-left: 10%;
 }
